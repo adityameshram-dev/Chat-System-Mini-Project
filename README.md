@@ -29,7 +29,3 @@ Now Start Chatting...
 Note:
 1. Make sure the Server is running first before starting the Client.
 2. Client and Server must be on the same network.
-
-
-Note :
-Make sure that Client and Server On the same Network 
