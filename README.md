@@ -1,4 +1,4 @@
-# Chat-System-Mini-Project
+# Chat-System Mini-Project
 using java GUI + Socket Programming 
 
 
