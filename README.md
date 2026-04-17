@@ -2,14 +2,14 @@
 using java GUI + Socket Programming 
 
 
-How to Run: 
+**How to Run:**
 
 **Step 1: Start the Server**
 1. Open the file 'Serverchatsystem.java'.
 2. Compile and run it:
-    javac Serverchatsystem.java
-    java Serverchatsystem
-3. The server will start on port 5001 and display your local IP.
+   javac Serverchatsystem.java
+   java Serverchatsystem
+4. The server will start on port 5001 and display your local IP.
 
 **Step 2: Start the Client**
 1. Open the file 'UI.java' on the same or a different device.
