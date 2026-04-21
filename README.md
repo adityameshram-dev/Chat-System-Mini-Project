@@ -9,7 +9,7 @@ using java GUI + Socket Programming
 2. Compile and run it:
    javac Serverchatsystem.java
    java Serverchatsystem
-4. The server will start on port 5001 and display your local IP.
+4. The server will start on port 5001 and display your local IP Address.
 
 **Step 2: Start the Client**
 1. Open the file 'UI.java' on the same or a different device.
@@ -19,7 +19,7 @@ using java GUI + Socket Programming
 3. GUI window will open for the client.
 
 **Step 3: Connect to Server**
-1. Enter the Server IP (shown by the server program).
+1. Enter the Server IP Address (shown by the server program).
 2. Enter your Name.
 3. Port: 5001 (by default).
 4. Click on Connect button.
